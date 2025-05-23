@@ -34,5 +34,11 @@ El diagrama ER ilustra cómo se relacionan las entidades **Clientes**, **Mascota
 
 ![Diagrama ER](./diagramaER.png)
 
+## 🎥 Video explicativo
+
+Explicación del diseño, relaciones, inserción de datos y funcionamiento de las consultas:
+
+🔗 [Ver en Drive](https://drive.google.com/drive/folders/1uJz48KynfsIBtW-YtRCaYPLAiwI5cpdB?usp=sharing)
+
 
 
